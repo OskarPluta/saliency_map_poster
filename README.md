@@ -1,3 +1,5 @@
+![Poster: Efficient Black-Box Explanations for Image Segmentation using Bayesian Optimization](widzenie_koputerowe.png)
+
 # BO-SegOcc Experiment README
 
 ## Cel
